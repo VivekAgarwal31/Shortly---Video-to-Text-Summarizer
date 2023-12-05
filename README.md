@@ -11,6 +11,33 @@ To automatically generate a concise and accurate summary that captures the essen
 # IDEOLOGY :
 The ability that a video can be automatically transcribed and summarized into multiple languages, making it accessible to a wider people without the need for human translation.
 
+# LIBRARIES USED:
+requests
+moviepy
+pytube3
+youtube_transcript_api
+SpeechRecognition
+pydub
+deep-translator
+transformers
+huggingsound 
+librosa
+nltk
+rouge
+matplotlib
+seaborn
+scikit-learn
+torch
+validators
+Flask
+Flask-Cors
+numpy
+regex
+tqdm
+urllib3
+python-dotenv
+os
+
 # TEAM MEMBERS :
 Mentor - Dr. Vimal Baghel
 Member 1 - Vivek Agarwal
