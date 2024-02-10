@@ -39,6 +39,7 @@ python-dotenv
 os
 
 # TEAM MEMBERS :
-Mentor - Dr. Vimal Baghel
 Member 1 - Vivek Agarwal
 Member 2 - Madhav Garg
+Member 3 - Ujjwal Singh
+Member 4 - Ronit Vats
